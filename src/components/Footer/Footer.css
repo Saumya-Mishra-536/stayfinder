@@ -1,0 +1,38 @@
+.simple-footer {
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+  }
+  
+  .footer-brand {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .footer-links {
+    margin: 10px 0;
+  }
+  
+  .footer-links a {
+    color: #bbb;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    color: #fff;
+  }
+  
+  .footer-contact {
+    margin: 5px 0;
+    font-size: 13px;
+  }
+  
+  .footer-copy {
+    margin-top: 10px;
+    color: #aaa;
+    font-size: 12px;
+  }
+  

@@ -1,0 +1,63 @@
+.filters {
+background-color: #f8f8f8;
+padding: 20px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+
+.filters h3 {
+margin-top: 0;
+margin-bottom: 15px;
+font-size: 18px;
+color: #333;
+}
+
+.filter-group {
+margin-bottom: 15px;
+}
+
+.filter-group label {
+display: block;
+font-size: 14px;
+margin-bottom: 5px;
+color: #555;
+}
+
+.filter-group select,
+.filter-group input {
+width: 100%;
+padding: 8px;
+border: 1px solid #ddd;
+border-radius: 4px;
+font-size: 14px;
+}
+
+.price-inputs {
+display: flex;
+align-items: center;
+}
+
+.price-inputs input {
+width: 45%;
+}
+
+.price-inputs span {
+margin: 0 10px;
+color: #777;
+}
+
+.apply-filters {
+background-color: #4a90e2;
+color: white;
+border: none;
+padding: 10px;
+width: 100%;
+border-radius: 4px;
+cursor: pointer;
+font-size: 14px;
+margin-top: 10px;
+}
+
+.apply-filters:hover {
+background-color: #357abd;
+}
